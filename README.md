@@ -1,24 +1,37 @@
-## Hi there 👋, I'm Joem Bolinas!
+# 👋 Hi there, I'm Joem Bolinas!  
 
 🎓 **Aspiring IT Professional**  
-- 📚 Currently pursuing a **Bachelor of Science in Information Technology** major in **Network and Cybersecurity** at **Mapúa Malayan Digital College**.  
-- 💻 Experienced in **data encoding**, **SAP system**, and **warehouse management** through my professional work at **AllHome Corp.** and previous roles.  
-- 🛠️ Skilled in **C++ programming**, **data algorithms**, and **advanced Microsoft Office applications** from my earlier ICT studies.  
+- 📚 Pursuing a **Bachelor of Science in Information Technology**, majoring in **Network and Cybersecurity**, at **Mapúa Malayan Digital College**.  
+- 💻 Over 10 years of professional experience in **data analysis**, **SAP ERP software**, **MS DynamicNav365**, and **inventory control** in retail companies.  
+- 🛠️ Proficient in **C++**, **Azure Enterprise Data Analytics**, **Python**, and **Power BI**, leveraging my background in Information and Communication Technology (ICT).  
+
+---
 
 🌱 **Always Learning**  
-- 📖 Currently learning about **automation tools and workflows** to improve efficiency in both personal and professional projects.  
-- 🚀 Exploring web development with **Google Sites** and enhancing my skills in **Notion** for productivity and organization.  
+- 📖 Currently exploring **automation tools and workflows** to boost efficiency in personal and professional projects.  
+- 🚀 Learning **web development** using **Google Sites** and improving productivity with **Notion**.  
+- 🌐 Eager to dive deeper into **cloud computing** and **cybersecurity frameworks** like **Zero Trust** and **SOC operations**.  
+- 🔍 Exploring advanced topics in **data visualization** with **Power BI** and **Tableau** to tell compelling data stories.  
+- 🛠️ Committed to enhancing my **coding skills** in **Python**, **JavaScript**, and **HTML/CSS** to create innovative and functional applications.  
+- 📊 Gaining expertise in **data-driven decision-making** through tools like **Excel macros**, **Azure Synapse**, and **Power Automate**.  
+- 💡 Passionate about continuous learning, embracing new technologies, and adapting to the ever-evolving tech landscape.  
 
-🤝 **Let's Collaborate!**  
-I'm open to connecting with like-minded peers for projects in:  
+---
+
+🤝 **Let’s Collaborate!**  
+I'm open to connecting with like-minded peers for:  
 - Cybersecurity challenges  
-- Website development  
-- Study collaboration and tech discussions  
+- Website development projects  
+- Study collaborations and tech discussions  
 
-📫 **Reach Me**  
-- **Email**: joem.bolinas@example.com  
-- **LinkedIn**: [Joem Bolinas](https://www.linkedin.com/in/joem-bolinas)  
-- **GitHub**: [joembolinas](https://github.com/joembolinas)  
+---
+
+📫 **Get in Touch**  
+- 📧 **Email**: joem.bolinas@example.com  
+- 💼 **LinkedIn**: [Joem Bolinas](https://www.linkedin.com/in/joem-bolinas)  
+- 💻 **GitHub**: [joembolinas](https://github.com/joembolinas)  
+
+---
 
 ⚡ **Fun Fact**  
-I have a knack for solving puzzles and love challenges that require logical thinking, whether it’s a tricky Sudoku or debugging code!  
+I enjoy solving puzzles and tackling challenges that require logical thinking, whether it's a tricky Sudoku or debugging complex code!  
