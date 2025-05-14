@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Joem Bolinas!
 
 🎓 **Aspiring IT Professional | Data-Driven Problem Solver**  
-Currently pursuing a **BS in Information Technology**, majoring in **Network and Cybersecurity**, at **Mapúa Malayan Digital College**.
+Currently pursuing a **BS in Information Technology**, majoring in **Network and Cybersecurity**.
 
 With experience in **data analysis**, **SAP ERP**, **MS Dynamics NAV**, and **inventory control** across retail operations, I bring a strong mix of business operations knowledge and technical skills to every project I take on.
 
@@ -14,7 +14,7 @@ I'm passionate about continuous growth and keeping up with the ever-evolving tec
   Using tools like **Google Apps Script**, **Power Automate**, and **SaaS** to streamline tasks and boost efficiency.
 
 - 🌐 **Web Development & Deployment**  
-  Learning **HTML**, **CSS**, and **JavaScript**, and deploying simple sites via **GitHub Pages** and **Google Sites**.
+  Learning **HTML**, **CSS**, and **JavaScript**, and deploying simple sites via **GitHub Pages**
 
 - ☁️ **Cloud & Cybersecurity Foundations**  
   Diving deeper into **cloud computing**, **data privacy**, and **ethical hacking** through platforms like **TryHackMe** and **Hack The Box**.
