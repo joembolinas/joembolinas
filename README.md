@@ -1,119 +1,175 @@
-<a href="https://joembolinas.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0084E7&width=475&lines=Hi%2C+I'm+Joem+%F0%9F%91%8B;Cybersecurity+%26+IT+Professional"></a>
+<!-- HEADER :: joembolinas -->
+<div align="center">
 
-```python
-class AboutMe:
-    """Aspiring IT Professional | Cybersecurity & Data-Driven Problem Solver."""
-    
-    def __init__(self):
-        self.name = "Joem Bolinas"
-        self.role = "Cybersecurity & IT Professional"
-        self.location = "Philippines"
-        self.github = "https://github.com/joembolinas"
-        self.focus = ["Cybersecurity", "Web Development", "Data Analytics"]
-    
-    def __str__(self):
-        return f"{self.name} | {self.role}"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=Booting+profile...+%5BOK%5D;User%3A+joembolinas;Role%3A+Full+Stack+Developer+%7C+Cybersecurity+Learner;Status%3A+Building+in+public;Motto%3A+Ship+clean.+Learn+daily.;%3E+whoami+%26%26+echo+%22welcome%22" alt="typing"/>
 
-if __name__ == '__main__':
-    me = AboutMe()
-    print(me)
+<br/>
+
+<img src="https://img.shields.io/badge/role-Full%20Stack%20%7C%20Cybersecurity-39FF14?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/status-Building%20in%20public-39FF14?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/opsec-ethical%20only-39FF14?style=flat-square&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=joembolinas&color=39FF14&style=flat-square&label=PROFILE+VIEWS&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+<div align="right">
+  <img align="right" alt="tech gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW84b2x5cWl2a3J2b2R1dW9wNHRwN2E5ZDJkYjR5Y3I5b2JoaG5sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="260" />
+</div>
+
+```bash
+┌──(joembolinas㉿machine)-[~]
+└─$ cat about.txt
+alias:          joembolinas
+display_name:   joembolinas
+role:           Full Stack Dev | Cybersecurity Learner
+focus:          Web Dev, CTF, DevOps, Networking
+status:         Building in public
+stack:          JavaScript/TypeScript, Python, Bash, Docker, Linux
+platform:       GitHub
+learning:       Cloud security basics + automation + system internals
+motto:          Ship clean. Learn daily.
+└─$ █
 ```
 
----
+<br/>
 
-🎓 **Aspiring IT Professional | Data-Driven Problem Solver**  
-Currently pursuing a **BS in Information Technology**, majoring in **Network and Cybersecurity**.
+<!-- SKILLS -->
+## `> ls -la ./skills`
 
-With experience in **data analysis**, **SAP ERP**, **MS Dynamics NAV**, and **inventory control** across retail operations, I bring a strong mix of business operations knowledge and technical skills to every project I take on.
+**[ LANGUAGES ]**  
+![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-39FF14?style=for-the-badge&logo=typescript&logoColor=0d1117)
+![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-39FF14?style=for-the-badge&logo=gnubash&logoColor=0d1117)
 
----
+**[ FRAMEWORKS & TOOLS ]**  
+![Node.js](https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=0d1117)
+![React](https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=0d1117)
 
-### 🌱 Always Learning, Always Building  
-I'm passionate about continuous growth and keeping up with the ever-evolving tech world. Here's what I'm currently exploring:
+**[ WORKFLOW & PLATFORMS ]**  
+![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS%20Code-39FF14?style=for-the-badge&logo=visualstudiocode&logoColor=0d1117)
+![Obsidian](https://img.shields.io/badge/Obsidian-39FF14?style=for-the-badge&logo=obsidian&logoColor=0d1117)
 
-- 🔧 **AI Automation & Workflow Optimization**  
-  Using tools like **Google Apps Script**, **Power Automate**, and **SaaS** to streamline tasks and boost efficiency.
+<br/>
 
-- 🌐 **Web Development & Deployment**  
-  Learning **HTML**, **CSS**, and **JavaScript**, and deploying simple sites via **GitHub Pages**
+<!-- CURRENT MISSION -->
+## `> cat ./current_mission.log`
 
-- ☁️ **Cloud & Cybersecurity Foundations**  
-  Diving deeper into **cloud computing**, **data privacy**, and **ethical hacking** through platforms like **TryHackMe** and **Hack The Box**.
+```text
+[*] Initializing...
+[+] Build small tools that automate boring tasks .......... [ACTIVE]
+[+] Ship portfolio-grade full-stack projects ............. [ACTIVE]
+[+] Practice CTF fundamentals (web, linux, net) .......... [ACTIVE]
+[+] Write clean docs + reproducible setups ............... [QUEUED]
+[+] Contribute to OSS (bugs/docs/tests) .................. [QUEUED]
+```
 
-- 📊 **Data Analytics & Visualization**  
-  Enhancing skills in **Power BI**, **Google Looker Studio**, and **Google Analytics**—while using **Python**, **Excel**, and **Google Sheets** for data storytelling.
+<br/>
 
-- 💻 **Programming & Frameworks**  
-  Improving my knowledge of **Python**, **Java**, and exploring frameworks like **Django** for building real-world applications.
+<!-- GITHUB STATS -->
+## `> sudo cat /proc/github_stats`
 
-- 🛡️ **Security-Minded Technologist**  
-  Learning tools like **Kali Linux**, network scanning techniques, and secure system architecture as I progress in my cybersecurity journey.
+<div align="center">
 
----
+<a href="https://github.com/joembolinas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joembolinas&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true" alt="stats"/>
+</a>
+<a href="https://github.com/joembolinas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joembolinas&layout=compact&bg_color=0d1117&hide_border=true" alt="top langs"/>
+</a>
 
-### 🛠️ Tech Stack
+<br/>
 
-**Languages & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=joembolinas&background=0d1117&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak"/>
 
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
+</div>
 
-**Data & Analytics**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+<br/>
 
-**Cybersecurity**  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)
+<!-- PLATFORM BADGES -->
+## `> ls -la ./platforms`
 
-**ERP & Business Systems**  
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![Microsoft Dynamics](https://img.shields.io/badge/MS%20Dynamics%20NAV-0078D4?style=flat&logo=microsoft&logoColor=white)
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/TryHackMe-CTF-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
-### 🎯 What's Next? My Future Plans  
-I'm committed to becoming a well-rounded IT professional. Here's where I'm heading:
+</div>
 
-- 🤖 Deep-dive into **LLMs**, **machine learning**, and **AI technologies**  
-- 🏁 Participate in **hackathons** to challenge myself and collaborate with like-minded people  
-- 🌍 Start **contributing to open-source projects** to give back to the community and gain real-world experience  
-- ✍️ Share my learning journey through **blog posts** and **tech content**, to document and reflect on what I learn  
-- 🌟 Build my **personal brand** in tech through consistent online presence and valuable content  
-- 📚 Launch a **Dev Journey Project**: a documentation series where I share how I gained my skills, tackled challenges, solved problems, and delivered results through personal projects
+<div align="center">
+  <!-- If you have a TryHackMe username, replace THM_USERNAME below -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/THM_USERNAME.png" alt="TryHackMe badge" />
+</div>
 
-This isn't just about showing *what* I can do—it's about sharing *how* I did it and why it matters.
+<br/>
 
----
+<!-- ACTIVITY GRAPH -->
+## `> git log --all --graph`
 
-### 🤝 Let's Collaborate  
-I'm open to connecting and teaming up on:
+<div align="center">
 
-- 🔐 Cybersecurity projects & discussions  
-- 🌐 Web development ideas and builds  
-- ⚙️ Workflow automations and productivity tools  
-- 📊 Data analytics and visualization efforts  
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joembolinas&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&hide_border=true" alt="activity graph"/>
 
-Let's create something impactful together!
+</div>
 
----
+<br/>
 
-### 📫 Get in Touch  
-- 📧 Email: bolinasjoem@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joem-bolinas)  
-- 💻 [GitHub](https://github.com/joembolinas)  
+<!-- SNAKE -->
+## `> sudo watch -n 1 'cat /proc/contributions'`
 
----
+<div align="center">
 
-### ⚡ Fun Fact  
-I enjoy cracking logic puzzles on platforms like **LeetCode**, **Hack The Box**, and **TryHackMe**—and even a good old-fashioned game of **Sudoku**. For me, solving problems is more than just technical—it's a mindset.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+<i>Snake animation requires GitHub Actions setup.</i>
+
+</div>
+
+<br/>
+
+<!-- FOOTER / CONTACT -->
+## `> finger joembolinas`
+
+```bash
+Login: joembolinas                          Name: joembolinas
+Directory: /home/joembolinas                Shell: /bin/zsh
+Last login: [ encrypted ]                   From: 0.0.0.0
+
+Contact:
+- GitHub:    https://github.com/joembolinas
+- Email:     your@email.com
+- Portfolio: (set me)
+└─$ █
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Email-Contact-39FF14?style=for-the-badge&logo=protonmail&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub-joembolinas-39FF14?style=for-the-badge&logo=github&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Portfolio-Online-39FF14?style=for-the-badge&logo=vercel&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/CTF-TryHackMe-39FF14?style=for-the-badge&logo=tryhackme&logoColor=0d1117" />
+
+</div>
+
+```text
+[ process complete ] — joembolinas@machine:~$ exit
+Connection closed.
+```
+
+<div align="center">
+  <sub><i>All activities conducted under this alias are for ethical, educational, and authorized purposes only.</i></sub>
+</div>
