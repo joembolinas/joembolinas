@@ -1,175 +1,192 @@
-<!-- HEADER :: joembolinas -->
+<!-- HEADER BLOCK -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=Booting+profile...+%5BOK%5D;User%3A+joembolinas;Role%3A+Full+Stack+Developer+%7C+Cybersecurity+Learner;Status%3A+Building+in+public;Motto%3A+Ship+clean.+Learn+daily.;%3E+whoami+%26%26+echo+%22welcome%22" alt="typing"/>
+```
+███████╗██╗   ██╗██████╗  ██████╗ ██╗  ██╗██████╗ ███╗   ███╗██████╗ ███████╗
+██╔════╝██║   ██║██╔══██╗██╔═══██╗╚██╗██╔╝██╔══██╗████╗ ████║██╔══██╗██╔════╝
+███████╗██║   ██║██║  ██║██║   ██║ ╚███╔╝ ██████╔╝██╔████╔██║██████╔╝█████╗
+╚════██║██║   ██║██║  ██║██║   ██║ ██╔██╗ ██╔══██╗██║╚██╔╝██║██╔══██╗██╔══╝
+███████║╚██████╔╝██████╔╝╚██████╔╝██╔╝ ██╗██║  ██║██║ ╚═╝ ██║██║  ██║██║
+╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝
+```
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;%3E+sudoXrmrf;Ethical+Hacker+%7C+CTF+Player+%7C+Cybersecurity+Student;%3E+chmod+%2Bx+./future.sh+%26%26+./future.sh;%3E+Currently+learning...+offensive+security)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/role-Full%20Stack%20%7C%20Cybersecurity-39FF14?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/status-Building%20in%20public-39FF14?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/opsec-ethical%20only-39FF14?style=flat-square&labelColor=0d1117" />
-<img src="https://komarev.com/ghpvc/?username=joembolinas&color=39FF14&style=flat-square&label=PROFILE+VIEWS&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=sudoXrmrf&label=PROFILE+VIEWS&color=39ff14&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-learning%20%7C%20hacking-39ff14?style=flat-square&logo=gnu-bash&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPSEC-maintained-39ff14?style=flat-square&logo=tor-project&logoColor=black" />
 
 </div>
 
-<br/>
+---
 
-<!-- ABOUT -->
-<div align="right">
-  <img align="right" alt="tech gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW84b2x5cWl2a3J2b2R1dW9wNHRwN2E5ZDJkYjR5Y3I5b2JoaG5sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="260" />
-</div>
+<!-- ABOUT SECTION -->
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVlb3RwdHZlZWVobGdjMXhrN3BwNnFzeWI0OXN5dnkxMjM1NXM2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```bash
-┌──(joembolinas㉿machine)-[~]
+┌──(sudoXrmrf㉿kali)-[~]
 └─$ cat about.txt
-alias:          joembolinas
-display_name:   joembolinas
-role:           Full Stack Dev | Cybersecurity Learner
-focus:          Web Dev, CTF, DevOps, Networking
-status:         Building in public
-stack:          JavaScript/TypeScript, Python, Bash, Docker, Linux
-platform:       GitHub
-learning:       Cloud security basics + automation + system internals
-motto:          Ship clean. Learn daily.
+```
+
+```yaml
+alias     : sudoXrmrf
+role      : Ethical Hacker in Training
+focus     : Network Security | Penetration Testing
+platform  : TryHackMe | HackTheBox (soon)
+tools     : Kali Linux, Python, Bash
+brain     : Obsidian Second Brain
+learning  : OWASP Top 10, CTF Methodology
+motto     : "break to understand, understand to protect"
+```
+
+```bash
 └─$ █
 ```
 
-<br/>
+<br clear="right"/>
 
-<!-- SKILLS -->
+---
+
+<!-- SKILLS / TECH STACK -->
 ## `> ls -la ./skills`
 
-**[ LANGUAGES ]**  
-![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-39FF14?style=for-the-badge&logo=typescript&logoColor=0d1117)
-![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-39FF14?style=for-the-badge&logo=gnubash&logoColor=0d1117)
+<div align="center">
 
-**[ FRAMEWORKS & TOOLS ]**  
-![Node.js](https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=0d1117)
-![React](https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=0d1117)
+**[ OFFENSIVE & SECURITY ]**
 
-**[ WORKFLOW & PLATFORMS ]**  
-![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-39FF14?style=for-the-badge&logo=visualstudiocode&logoColor=0d1117)
-![Obsidian](https://img.shields.io/badge/Obsidian-39FF14?style=for-the-badge&logo=obsidian&logoColor=0d1117)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
-<br/>
+**[ SCRIPTING & DEV ]**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**[ WORKFLOW & TOOLS ]**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
 
 <!-- CURRENT MISSION -->
 ## `> cat ./current_mission.log`
 
-```text
-[*] Initializing...
-[+] Build small tools that automate boring tasks .......... [ACTIVE]
-[+] Ship portfolio-grade full-stack projects ............. [ACTIVE]
-[+] Practice CTF fundamentals (web, linux, net) .......... [ACTIVE]
-[+] Write clean docs + reproducible setups ............... [QUEUED]
-[+] Contribute to OSS (bugs/docs/tests) .................. [QUEUED]
+```
+[*] Initializing learning path...
+[+] Module 1: Linux Fundamentals ............. [ACTIVE]
+[+] Module 2: Network Recon & OSINT .......... [ACTIVE]
+[+] Module 3: Web Application Security ....... [QUEUED]
+[+] Module 4: Exploitation Basics ............ [QUEUED]
+[+] Module 5: CTF - Beginner Rooms ........... [ONGOING]
+[>] Current objective: Build methodology. Stack rooms. Level up.
 ```
 
-<br/>
+---
 
 <!-- GITHUB STATS -->
 ## `> sudo cat /proc/github_stats`
 
 <div align="center">
 
-<a href="https://github.com/joembolinas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joembolinas&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true" alt="stats"/>
-</a>
-<a href="https://github.com/joembolinas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joembolinas&layout=compact&bg_color=0d1117&hide_border=true" alt="top langs"/>
-</a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sudoXrmrf&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" />
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoXrmrf&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=39FF14&text_color=c9d1d9" />
 
 <br/>
 
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=joembolinas&background=0d1117&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoXrmrf&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
 
-<br/>
+---
 
-<!-- PLATFORM BADGES -->
-## `> ls -la ./platforms`
+<!-- TRYHACKME PROFILE -->
+## `> curl https://tryhackme.com/api/user/sudoXrmrf`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/TryHackMe-CTF-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<!-- Replace YOUR_THM_ID with your actual TryHackMe user ID after registration -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/sudoXrmrf.png" alt="TryHackMe Badge" />
+
+> 🔴 *Badge loads automatically once TryHackMe account is active under this alias.*
 
 </div>
 
-<div align="center">
-  <!-- If you have a TryHackMe username, replace THM_USERNAME below -->
-  <img src="https://tryhackme-badges.s3.amazonaws.com/THM_USERNAME.png" alt="TryHackMe badge" />
-</div>
-
-<br/>
+---
 
 <!-- ACTIVITY GRAPH -->
 ## `> git log --all --graph`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joembolinas&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudoXrmrf&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-<!-- SNAKE -->
+<!-- SNAKE ANIMATION -->
 ## `> sudo watch -n 1 'cat /proc/contributions'`
 
 <div align="center">
 
+<!-- Enable this by setting up the GitHub Actions workflow for snake generation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudoXrmrf/sudoXrmrf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudoXrmrf/sudoXrmrf/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sudoXrmrf/sudoXrmrf/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/>
-<i>Snake animation requires GitHub Actions setup.</i>
+> ⚡ *Snake animation requires the GitHub Actions workflow setup. Instructions in the [SETUP.md](./SETUP.md).*
 
 </div>
 
-<br/>
+---
 
-<!-- FOOTER / CONTACT -->
-## `> finger joembolinas`
-
-```bash
-Login: joembolinas                          Name: joembolinas
-Directory: /home/joembolinas                Shell: /bin/zsh
-Last login: [ encrypted ]                   From: 0.0.0.0
-
-Contact:
-- GitHub:    https://github.com/joembolinas
-- Email:     your@email.com
-- Portfolio: (set me)
-└─$ █
-```
+<!-- CONTACT / FOOTER -->
+## `> finger sudoXrmrf`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Email-Contact-39FF14?style=for-the-badge&logo=protonmail&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub-joembolinas-39FF14?style=for-the-badge&logo=github&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/Portfolio-Online-39FF14?style=for-the-badge&logo=vercel&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/CTF-TryHackMe-39FF14?style=for-the-badge&logo=tryhackme&logoColor=0d1117" />
+```
+Login: sudoXrmrf                        Name: [REDACTED]
+Directory: /home/sudoXrmrf              Shell: /bin/bash
+Last login: [NOW] from [ENCRYPTED]
+No mail.
 
-</div>
+Reach me at:
+```
 
-```text
-[ process complete ] — joembolinas@machine:~$ exit
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sudoxrmrf@proton.me)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/sudoXrmrf)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudoXrmrf)
+
+<br/>
+
+```
+[ process complete ] — sudoXrmrf@kali:~$ exit
 Connection closed.
 ```
 
+</div>
+
+---
+
 <div align="center">
-  <sub><i>All activities conducted under this alias are for ethical, educational, and authorized purposes only.</i></sub>
+<sub>
+⚠️ <i>All activities conducted under this alias are for ethical, educational, and authorized purposes only.</i> ⚠️
+</sub>
 </div>
