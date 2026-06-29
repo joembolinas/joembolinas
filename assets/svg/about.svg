@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="360" viewBox="0 0 980 360" role="img" aria-label="joembolinas profile card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 30px 'Fira Code', Consolas, monospace; fill: #e2e8f0; }
+      .line  { font: 500 18px 'Fira Code', Consolas, monospace; fill: #cbd5e1; }
+      .key   { fill: #67e8f9; }
+      .value { fill: #e2e8f0; }
+      .motto { fill: #a5f3fc; font-style: italic; }
+      .dim   { fill: #94a3b8; }
+    </style>
+  </defs>
+
+  <rect width="980" height="360" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="980" height="8" fill="url(#accent)"/>
+  <text x="28" y="44" class="title">┌──(joembolinas㉿kali)-[~]</text>
+  <text x="28" y="74" class="title">└─$ cat about.yaml</text>
+
+  <text x="28" y="112" class="line"><tspan class="key">alias</tspan>     <tspan class="dim">:</tspan> <tspan class="value">joembolinas</tspan></text>
+  <text x="28" y="138" class="line"><tspan class="key">role</tspan>      <tspan class="dim">:</tspan> <tspan class="value">Ethical Hacker in Training</tspan></text>
+  <text x="28" y="164" class="line"><tspan class="key">focus</tspan>     <tspan class="dim">:</tspan> <tspan class="value">Network Security | Penetration Testing</tspan></text>
+  <text x="28" y="190" class="line"><tspan class="key">platforms</tspan> <tspan class="dim">:</tspan> <tspan class="value">TryHackMe | HackTheBox</tspan></text>
+  <text x="28" y="216" class="line"><tspan class="key">tools</tspan>     <tspan class="dim">:</tspan> <tspan class="value">Kali Linux, Python, Bash, Burp Suite, Nmap</tspan></text>
+  <text x="28" y="242" class="line"><tspan class="key">brain</tspan>     <tspan class="dim">:</tspan> <tspan class="value">Obsidian Second Brain</tspan></text>
+  <text x="28" y="268" class="line"><tspan class="key">learning</tspan>  <tspan class="dim">:</tspan> <tspan class="value">OWASP Top 10, CTF Methodology, Linux Internals</tspan></text>
+  <text x="28" y="294" class="line"><tspan class="key">motto</tspan>     <tspan class="dim">:</tspan> <tspan class="motto">"break to understand, understand to protect"</tspan></text>
+  <text x="28" y="320" class="line"><tspan class="key">status</tspan>    <tspan class="dim">:</tspan> <tspan class="value">building skills, labs, and methodology</tspan></text>
+</svg>
