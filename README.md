@@ -1,3 +1,4 @@
+
 <!-- HEADER BLOCK -->
 <div align="center">
 
@@ -10,7 +11,7 @@
 ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;%3E+sudoXrmrf;Ethical+Hacker+%7C+CTF+Player+%7C+Cybersecurity+Student;%3E+chmod+%2Bx+./future.sh+%26%26+./future.sh;%3E+Currently+learning...+offensive+security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=880&lines=root%40kali%3A~%23+whoami;sudoXrmrf;Ethical+Hacker+%7C+CTF+Player+%7C+Cybersecurity+Student;Learning+offensive+security+one+lab+at+a+time;Break+to+understand%2C+understand+to+protect)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=sudoXrmrf&label=PROFILE+VIEWS&color=39ff14&style=flat-square" />
 &nbsp;
@@ -18,58 +19,37 @@
 &nbsp;
 <img src="https://img.shields.io/badge/OPSEC-maintained-39ff14?style=flat-square&logo=tor-project&logoColor=black" />
 
+
 </div>
 
 ---
 
-<!-- ABOUT SECTION -->
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVlb3RwdHZlZWVobGdjMXhrN3BwNnFzeWI0OXN5dnkxMjM1NXM2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+## `> whoami`
 
-```bash
-┌──(sudoXrmrf㉿kali)-[~]
-└─$ cat about.txt
-```
 
-```yaml
-alias     : sudoXrmrf
-role      : Ethical Hacker in Training
-focus     : Network Security | Penetration Testing
-platform  : TryHackMe | HackTheBox (soon)
-tools     : Kali Linux, Python, Bash
-brain     : Obsidian Second Brain
-learning  : OWASP Top 10, CTF Methodology
-motto     : "break to understand, understand to protect"
-```
-
-```bash
-└─$ █
-```
+![about](./assets/svg/about.svg)
 
 <br clear="right"/>
 
 ---
 
-<!-- SKILLS / TECH STACK -->
-## `> ls -la ./skills`
+## `> ls --color=auto ./skills`
 
 <div align="center">
 
-**[ OFFENSIVE & SECURITY ]**
-
+### `security/`
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 
-**[ SCRIPTING & DEV ]**
-
+### `dev/`
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**[ WORKFLOW & TOOLS ]**
-
+### `workflow/`
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -79,17 +59,17 @@ motto     : "break to understand, understand to protect"
 
 ---
 
-<!-- CURRENT MISSION -->
 ## `> cat ./current_mission.log`
 
-```
-[*] Initializing learning path...
-[+] Module 1: Linux Fundamentals ............. [ACTIVE]
-[+] Module 2: Network Recon & OSINT .......... [ACTIVE]
-[+] Module 3: Web Application Security ....... [QUEUED]
-[+] Module 4: Exploitation Basics ............ [QUEUED]
-[+] Module 5: CTF - Beginner Rooms ........... [ONGOING]
-[>] Current objective: Build methodology. Stack rooms. Level up.
+```bash
+[*] boot sequence initiated...
+[*] loading modules...
+[+] linux fundamentals ................. [ACTIVE]
+[+] network recon & osint .............. [ACTIVE]
+[+] web app security ................... [QUEUED]
+[+] exploitation basics ................ [QUEUED]
+[+] ctf beginner rooms ................. [ONGOING]
+[>] current objective: build methodology, stack rooms, level up.
 ```
 
 ---
@@ -103,105 +83,63 @@ motto     : "break to understand, understand to protect"
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/joembolinas/your-repo">
-  <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/kali-2020.4-release.jpg" width="100%" alt="Project 1 Cover" />
+      <a href="https://github.com/joembolinas/REPO_ONE" target="_blank">
+        <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/project1.png" width="100%" alt="Project One Cover" />
       </a>
       <br/>
-      <sub><b>Port Scanner (Python)</b></sub>
+      <sub><b>Project One</b></sub>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/joembolinas/web-vuln-lab-notes" target="_blank">
-        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Web+Vuln+Lab+Notes" width="100%" alt="Web Vuln Lab Notes Cover" />
+      <a href="https://github.com/joembolinas/REPO_TWO" target="_blank">
+        <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/project2.png" width="100%" alt="Project Two Cover" />
       </a>
       <br/>
-      <sub><b>Web Vuln Lab Notes</b></sub>
+      <sub><b>Project Two</b></sub>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/joembolinas/linux-priv-esc-checklist" target="_blank">
-        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Linux+PrivEsc+Checklist" width="100%" alt="Linux PrivEsc Checklist Cover" />
+      <a href="https://github.com/joembolinas/REPO_THREE" target="_blank">
+        <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/project3.png" width="100%" alt="Project Three Cover" />
       </a>
       <br/>
-      <sub><b>Linux PrivEsc Checklist</b></sub>
+      <sub><b>Project Three</b></sub>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/joembolinas/ctf-writeups" target="_blank">
-        <img src="https://placehold.co/600x360/0d1117/39ff14?text=CTF+Writeups" width="100%" alt="CTF Writeups Cover" />
+      <a href="https://github.com/joembolinas/REPO_FOUR" target="_blank">
+        <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/project4.png" width="100%" alt="Project Four Cover" />
       </a>
       <br/>
-      <sub><b>CTF Writeups</b></sub>
+      <sub><b>Project Four</b></sub>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/joembolinas/bash-automation-scripts" target="_blank">
-        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Bash+Automation+Scripts" width="100%" alt="Bash Automation Scripts Cover" />
+      <a href="https://github.com/joembolinas/REPO_FIVE" target="_blank">
+        <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/project5.png" width="100%" alt="Project Five Cover" />
       </a>
       <br/>
-      <sub><b>Bash Automation Scripts</b></sub>
+      <sub><b>Project Five</b></sub>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/joembolinas/network-recon-toolkit" target="_blank">
-        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Network+Recon+Toolkit" width="100%" alt="Network Recon Toolkit Cover" />
+      <a href="https://github.com/joembolinas/REPO_SIX" target="_blank">
+        <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/project6.png" width="100%" alt="Project Six Cover" />
       </a>
       <br/>
-      <sub><b>Network Recon Toolkit</b></sub>
+      <sub><b>Project Six</b></sub>
     </td>
   </tr>
 </table>
 
 </div>
 
-> Sample view only — replace repo links and cover image URLs with your actual project assets when ready.
-
----
 ---
 
-<!-- GITHUB STATS -->
-## `> sudo cat /proc/github_stats`
+## `> watch -n 1 progress`
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sudoXrmrf&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" />
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoXrmrf&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=39FF14&text_color=c9d1d9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joembolinas&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoXrmrf&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-
-</div>
-
----
-
-<!-- TRYHACKME PROFILE -->
-## `> curl https://tryhackme.com/api/user/sudoXrmrf`
-
-<div align="center">
-
-<!-- Replace YOUR_THM_ID with your actual TryHackMe user ID after registration -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/sudoXrmrf.png" alt="TryHackMe Badge" />
-
-> 🔴 *Badge loads automatically once TryHackMe account is active under this alias.*
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## `> git log --all --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudoXrmrf&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" />
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-## `> sudo watch -n 1 'cat /proc/contributions'`
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake-dark.svg" />
@@ -213,39 +151,51 @@ motto     : "break to understand, understand to protect"
 
 ---
 
-<!-- CONTACT / FOOTER -->
-## `> finger sudoXrmrf`
+## `> sudo cat /proc/github_stats`
 
 <div align="center">
 
-```
-Login: sudoXrmrf                        Name: [REDACTED]
-Directory: /home/sudoXrmrf              Shell: /bin/bash
-Last login: [NOW] from [ENCRYPTED]
-No mail.
-
-Reach me at:
-```
-
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sudoxrmrf@proton.me)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joembolinas&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/sudoXrmrf)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudoXrmrf)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joembolinas&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=39FF14&text_color=c9d1d9" />
 
-<br/>
+<br/><br/>
 
-```
-[ process complete ] — sudoXrmrf@kali:~$ exit
-Connection closed.
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joembolinas&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
 
 ---
 
+## `> curl tryhackme.com/p/YOUR_THM_USERNAME`
+
 <div align="center">
-<sub>
-⚠️ <i>All activities conducted under this alias are for ethical, educational, and authorized purposes only.</i> ⚠️
-</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Always+learning+%7C+Always+testing+%7C+Always+documenting" />
+
+</div>
+
+---
+
+## `> finger joembolinas`
+
+<div align="center">
+
+```text
+Login: joembolinas
+Role : Ethical Hacker in Training
+Shell: /bin/bash
+Focus: Security labs, CTFs, and hands-on learning
+```
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:YOUR_EMAIL@proton.me)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joembolinas)
+
+<br/><br/>
+
+<sub>⚠️ Ethical, educational, and authorized use only.</sub>
+
 </div>
