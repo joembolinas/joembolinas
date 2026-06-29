@@ -141,14 +141,11 @@ motto     : "break to understand, understand to protect"
 
 <div align="center">
 
-<!-- Enable this by setting up the GitHub Actions workflow for snake generation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/joembolinas/joembolinas/output/github-contribution-grid-snake.svg" />
 </picture>
-
-> ⚡ *Snake animation requires the GitHub Actions workflow setup. Instructions in the [SETUP.md](./SETUP.md).*
 
 </div>
 
