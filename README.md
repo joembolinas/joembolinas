@@ -103,8 +103,8 @@ motto     : "break to understand, understand to protect"
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/joembolinas/port-scanner-python" target="_blank">
-        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Port+Scanner+Python" width="100%" alt="Port Scanner Python Cover" />
+      <a href="https://github.com/joembolinas/your-repo">
+  <img src="https://raw.githubusercontent.com/joembolinas/joembolinas/main/assets/images/kali-2020.4-release.jpg" width="100%" alt="Project 1 Cover" />
       </a>
       <br/>
       <sub><b>Port Scanner (Python)</b></sub>
