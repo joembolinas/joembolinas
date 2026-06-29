@@ -94,6 +94,68 @@ motto     : "break to understand, understand to protect"
 
 ---
 
+## `> tree ./projects`
+
+### Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/joembolinas/port-scanner-python" target="_blank">
+        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Port+Scanner+Python" width="100%" alt="Port Scanner Python Cover" />
+      </a>
+      <br/>
+      <sub><b>Port Scanner (Python)</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/joembolinas/web-vuln-lab-notes" target="_blank">
+        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Web+Vuln+Lab+Notes" width="100%" alt="Web Vuln Lab Notes Cover" />
+      </a>
+      <br/>
+      <sub><b>Web Vuln Lab Notes</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/joembolinas/linux-priv-esc-checklist" target="_blank">
+        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Linux+PrivEsc+Checklist" width="100%" alt="Linux PrivEsc Checklist Cover" />
+      </a>
+      <br/>
+      <sub><b>Linux PrivEsc Checklist</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/joembolinas/ctf-writeups" target="_blank">
+        <img src="https://placehold.co/600x360/0d1117/39ff14?text=CTF+Writeups" width="100%" alt="CTF Writeups Cover" />
+      </a>
+      <br/>
+      <sub><b>CTF Writeups</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/joembolinas/bash-automation-scripts" target="_blank">
+        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Bash+Automation+Scripts" width="100%" alt="Bash Automation Scripts Cover" />
+      </a>
+      <br/>
+      <sub><b>Bash Automation Scripts</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/joembolinas/network-recon-toolkit" target="_blank">
+        <img src="https://placehold.co/600x360/0d1117/39ff14?text=Network+Recon+Toolkit" width="100%" alt="Network Recon Toolkit Cover" />
+      </a>
+      <br/>
+      <sub><b>Network Recon Toolkit</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+> Sample view only — replace repo links and cover image URLs with your actual project assets when ready.
+
+---
+---
+
 <!-- GITHUB STATS -->
 ## `> sudo cat /proc/github_stats`
 
