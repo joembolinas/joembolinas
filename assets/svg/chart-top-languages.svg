@@ -1,0 +1,31 @@
+<svg width="420" height="190" viewBox="0 0 420 190" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="418" height="188" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<path d="M1,11 a10,10 0 0 1 10,-10 h398 a10,10 0 0 1 10,10 v20 h-418 z" fill="#39FF14" fill-opacity="0.10"/>
+<line x1="0" y1="30" x2="420" y2="30" stroke="#39FF14" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="18" cy="15.0" r="5" fill="#ff5f56" fill-opacity="0.85"/>
+<circle cx="34" cy="15.0" r="5" fill="#ffbd2e" fill-opacity="0.85"/>
+<circle cx="50" cy="15.0" r="5" fill="#27c93f" fill-opacity="0.85"/>
+<text x="210.0" y="19.0" text-anchor="middle" font-size="12" fill="#7d8b7d">Top Languages</text>
+<text x="20" y="61" font-size="13" fill="#e9f5e9">Python</text>
+<rect x="110" y="47" width="240" height="9" rx="4" fill="#1c3a14"/>
+<rect x="110" y="47" width="230.4" height="9" rx="4" fill="#39FF14"/>
+<text x="360" y="61" font-size="12.5" fill="#7d8b7d">43.2%</text>
+<text x="20" y="87" font-size="13" fill="#e9f5e9">Java</text>
+<rect x="110" y="73" width="240" height="9" rx="4" fill="#1c3a14"/>
+<rect x="110" y="73" width="131.7" height="9" rx="4" fill="#39FF14"/>
+<text x="360" y="87" font-size="12.5" fill="#7d8b7d">24.7%</text>
+<text x="20" y="113" font-size="13" fill="#e9f5e9">Django</text>
+<rect x="110" y="99" width="240" height="9" rx="4" fill="#1c3a14"/>
+<rect x="110" y="99" width="47.5" height="9" rx="4" fill="#39FF14"/>
+<text x="360" y="113" font-size="12.5" fill="#7d8b7d">8.9%</text>
+<text x="20" y="139" font-size="13" fill="#e9f5e9">JavaScript</text>
+<rect x="110" y="125" width="240" height="9" rx="4" fill="#1c3a14"/>
+<rect x="110" y="125" width="37.9" height="9" rx="4" fill="#39FF14"/>
+<text x="360" y="139" font-size="12.5" fill="#7d8b7d">7.1%</text>
+<text x="20" y="165" font-size="13" fill="#e9f5e9">HTML</text>
+<rect x="110" y="151" width="240" height="9" rx="4" fill="#1c3a14"/>
+<rect x="110" y="151" width="27.7" height="9" rx="4" fill="#39FF14"/>
+<text x="360" y="165" font-size="12.5" fill="#7d8b7d">5.2%</text>
+</svg>

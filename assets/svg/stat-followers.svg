@@ -1,0 +1,8 @@
+<svg width="260" height="88" viewBox="0 0 260 88" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="258" height="86" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<circle cx="34.4" cy="36.8" r="6.72" fill="none" stroke="#39FF14" stroke-width="2"/><path d="M 24.8,55.2 q 0,-12.0 9.6,-12.0 q 9.6,0 9.6,12.0" fill="none" stroke="#39FF14" stroke-width="2"/><circle cx="47.2" cy="39.2" r="5.44" fill="none" stroke="#39FF14" stroke-opacity="0.6" stroke-width="2"/><path d="M 40,55.2 q 0,-9.92 8.0,-9.92 q 8.0,0 8.0,9.92" fill="none" stroke="#39FF14" stroke-opacity="0.6" stroke-width="2"/>
+<text x="74" y="38.0" font-size="13" fill="#7d8b7d">Followers</text>
+<text x="74" y="66.0" font-size="24" font-weight="700" fill="#39FF14">45+</text>
+</svg>

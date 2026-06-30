@@ -1,0 +1,8 @@
+<svg width="260" height="88" viewBox="0 0 260 88" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="258" height="86" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="28.0" y="28.0" width="24.0" height="32" rx="3" fill="none" stroke="#39FF14" stroke-width="2"/><line x1="28.0" y1="38.4" x2="52.0" y2="38.4" stroke="#39FF14" stroke-width="1.6"/><line x1="35.2" y1="46.4" x2="44.8" y2="46.4" stroke="#39FF14" stroke-width="1.6"/><line x1="35.2" y1="52.0" x2="42.4" y2="52.0" stroke="#39FF14" stroke-width="1.6"/>
+<text x="74" y="38.0" font-size="13" fill="#7d8b7d">Public Repositories</text>
+<text x="74" y="66.0" font-size="24" font-weight="700" fill="#39FF14">26</text>
+</svg>

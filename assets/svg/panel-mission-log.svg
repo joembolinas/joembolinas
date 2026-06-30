@@ -1,0 +1,15 @@
+<svg width="600" height="268" viewBox="0 0 600 268" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="598" height="266" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<text x="20" y="22" font-size="13.6"><tspan fill="#7d8b7d" font-weight="400">[*] boot sequence initiated...</tspan></text>
+<text x="20" y="45" font-size="13.6"><tspan fill="#7d8b7d" font-weight="400">[*] loading modules...</tspan></text>
+<text x="20" y="68" font-size="13.6"><tspan fill="#e9f5e9" font-weight="400">[+] linux fundamentals </tspan><tspan fill="#1f8c0d" font-weight="400">.................</tspan><tspan fill="#39FF14" font-weight="700"> [ACTIVE]</tspan></text>
+<text x="20" y="91" font-size="13.6"><tspan fill="#e9f5e9" font-weight="400">[+] networking &amp; security basics </tspan><tspan fill="#1f8c0d" font-weight="400">.........</tspan><tspan fill="#39FF14" font-weight="700"> [ACTIVE]</tspan></text>
+<text x="20" y="114" font-size="13.6"><tspan fill="#e9f5e9" font-weight="400">[+] web application security </tspan><tspan fill="#1f8c0d" font-weight="400">............</tspan><tspan fill="#7d8b7d" font-weight="700"> [QUEUED]</tspan></text>
+<text x="20" y="137" font-size="13.6"><tspan fill="#e9f5e9" font-weight="400">[+] exploitation &amp; privilege escalation </tspan><tspan fill="#1f8c0d" font-weight="400">..</tspan><tspan fill="#7d8b7d" font-weight="700"> [QUEUED]</tspan></text>
+<text x="20" y="160" font-size="13.6"><tspan fill="#e9f5e9" font-weight="400">[+] ctf rooms &amp; challenges </tspan><tspan fill="#1f8c0d" font-weight="400">...............</tspan><tspan fill="#ffd23f" font-weight="700"> [ONGOING]</tspan></text>
+<text x="20" y="183" font-size="13.6"><tspan fill="#e9f5e9" font-weight="400"></tspan></text>
+<text x="20" y="206" font-size="13.6"><tspan fill="#39FF14" font-weight="700">[&gt;] </tspan><tspan fill="#39FF14" font-weight="700">current objective: </tspan><tspan fill="#e9f5e9" font-weight="400">build skills, secure systems,</tspan></text>
+<text x="20" y="229" font-size="13.6"><tspan fill="#e9f5e9" font-weight="400">    automate tasks, and create impact.</tspan></text>
+</svg>

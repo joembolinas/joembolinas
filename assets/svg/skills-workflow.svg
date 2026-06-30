@@ -1,0 +1,15 @@
+<svg width="420" height="142" viewBox="0 0 420 142" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="418" height="140" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<text x="20" y="32" font-size="13.5" fill="#39FF14" font-weight="700">$ workflow/</text>
+<line x1="20" y1="42" x2="400" y2="42" stroke="#1c3a14" stroke-width="1"/>
+<path d="M 77.7,52.1 L 64.1,64 L 77.7,75.9 L 71.75,75.9 L 56.45,66.55 L 53.05,69.1 L 51.35,67.4 L 58.15,64 L 51.35,60.6 L 53.05,58.9 L 56.45,61.45 L 71.75,52.1 Z" fill="none" stroke="#007ACC" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="67.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">VS Code</text>
+<circle cx="162.5" cy="64" r="11.899999999999999" fill="none" stroke="#e9f5e9" stroke-width="2"/><path d="M 158.25,71.65 v-5.1 q -5.1,0.8500000000000001 -5.949999999999999,-3.4000000000000004 q -0.8500000000000001,-3.4000000000000004 -3.06,-4.25 M 158.25,69.1 q -6.800000000000001,1.7000000000000002 -6.800000000000001,-5.949999999999999 q 0,-2.55 1.7000000000000002,-4.25 q -0.68,-2.55 1.7000000000000002,-5.1 q 2.55,0 4.25,2.04 q 3.4000000000000004,-1.02 6.800000000000001,0 q 1.7000000000000002,-2.04 4.25,-2.04 q 2.3800000000000003,2.55 1.7000000000000002,5.1 q 1.7000000000000002,1.7000000000000002 1.7000000000000002,4.25 q 0,7.65 -6.800000000000001,5.949999999999999 q 1.7000000000000002,1.7000000000000002 1.7000000000000002,4.25 v5.1" fill="none" stroke="#e9f5e9" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="162.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">GitHub</text>
+<ellipse cx="257.5" cy="62.3" rx="7.65" ry="10.2" fill="none" stroke="#FCC624" stroke-width="2"/><circle cx="254.44" cy="59.75" r="3" fill="#FCC624"/><circle cx="260.56" cy="59.75" r="3" fill="#FCC624"/><path d="M 252.4,73.35 q 5.1,4.25 10.2,0" fill="none" stroke="#FCC624" stroke-width="2" stroke-linecap="round"/>
+<text x="257.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">Linux</text>
+<path d="M 352.5,51.25 L 363.55,64 L 352.5,76.75 L 341.45,64 Z" fill="none" stroke="#7C3AED" stroke-width="2" stroke-linejoin="round"/>
+<text x="352.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">Obsidian</text>
+</svg>

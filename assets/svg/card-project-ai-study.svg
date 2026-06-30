@@ -1,0 +1,10 @@
+<svg width="270" height="168" viewBox="0 0 270 168" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="268" height="166" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<circle cx="34" cy="38" r="7.04" fill="none" stroke="#39FF14" stroke-width="2"/><line x1="34" y1="38" x2="47.6" y2="38.0" stroke="#39FF14" stroke-width="1.6" stroke-opacity="0.8"/><circle cx="47.6" cy="38.0" r="3" fill="#39FF14"/><line x1="34" y1="38" x2="40.8" y2="49.8" stroke="#39FF14" stroke-width="1.6" stroke-opacity="0.8"/><circle cx="40.8" cy="49.8" r="3" fill="#39FF14"/><line x1="34" y1="38" x2="27.2" y2="49.8" stroke="#39FF14" stroke-width="1.6" stroke-opacity="0.8"/><circle cx="27.2" cy="49.8" r="3" fill="#39FF14"/><line x1="34" y1="38" x2="20.4" y2="38.0" stroke="#39FF14" stroke-width="1.6" stroke-opacity="0.8"/><circle cx="20.4" cy="38.0" r="3" fill="#39FF14"/><line x1="34" y1="38" x2="27.2" y2="26.2" stroke="#39FF14" stroke-width="1.6" stroke-opacity="0.8"/><circle cx="27.2" cy="26.2" r="3" fill="#39FF14"/><line x1="34" y1="38" x2="40.8" y2="26.2" stroke="#39FF14" stroke-width="1.6" stroke-opacity="0.8"/><circle cx="40.8" cy="26.2" r="3" fill="#39FF14"/>
+<text x="64" y="26" font-size="14.5" font-weight="700" fill="#39FF14">AI Study Assistant</text>
+<text x="64" y="45" font-size="14.5" font-weight="700" fill="#39FF14">System</text>
+<text x="20" y="76" font-size="12.5" fill="#7d8b7d">NotebookLM + AI workflows for</text>
+<text x="20" y="94" font-size="12.5" fill="#7d8b7d">smarter learning.</text>
+</svg>

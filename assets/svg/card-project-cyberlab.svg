@@ -1,0 +1,9 @@
+<svg width="270" height="168" viewBox="0 0 270 168" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="268" height="166" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="21.9" y="22.6" width="24.200000000000003" height="30.799999999999997" rx="3" fill="none" stroke="#39FF14" stroke-width="2"/><line x1="26.96" y1="31.4" x2="41.04" y2="31.4" stroke="#39FF14" stroke-width="1.6"/><line x1="26.96" y1="38" x2="41.04" y2="38" stroke="#39FF14" stroke-width="1.6"/><line x1="26.96" y1="44.6" x2="35.1" y2="44.6" stroke="#39FF14" stroke-width="1.6"/>
+<text x="64" y="26" font-size="14.5" font-weight="700" fill="#39FF14">Cybersecurity Lab Notes</text>
+<text x="20" y="76" font-size="12.5" fill="#7d8b7d">Documenting labs, tools, and</text>
+<text x="20" y="94" font-size="12.5" fill="#7d8b7d">key takeaways.</text>
+</svg>

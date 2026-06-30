@@ -1,0 +1,28 @@
+<svg width="600" height="316" viewBox="0 0 600 316" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="598" height="314" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<line x1="108" y1="30" x2="108" y2="270" stroke="#39FF14" stroke-opacity="0.45" stroke-width="2"/>
+<text x="24" y="35" font-size="14.5" fill="#39FF14" font-weight="700">2016</text>
+<circle cx="108" cy="30" r="5.5" fill="#05070a" stroke="#39FF14" stroke-width="2.4"/>
+<text x="128" y="35" font-size="13.6" fill="#e9f5e9">Customer Service / Food Service</text>
+<text x="24" y="75" font-size="14.5" fill="#39FF14" font-weight="700">2017</text>
+<circle cx="108" cy="70" r="5.5" fill="#05070a" stroke="#39FF14" stroke-width="2.4"/>
+<text x="128" y="75" font-size="13.6" fill="#e9f5e9">Inventory Operations</text>
+<text x="24" y="115" font-size="14.5" fill="#39FF14" font-weight="700">2021</text>
+<circle cx="108" cy="110" r="5.5" fill="#05070a" stroke="#39FF14" stroke-width="2.4"/>
+<text x="128" y="115" font-size="13.6" fill="#e9f5e9">S&amp;R Receiving / Data Encoding</text>
+<text x="24" y="155" font-size="14.5" fill="#39FF14" font-weight="700">2023</text>
+<circle cx="108" cy="150" r="5.5" fill="#05070a" stroke="#39FF14" stroke-width="2.4"/>
+<text x="128" y="155" font-size="13.6" fill="#e9f5e9">Resumed BSIT Studies</text>
+<text x="24" y="195" font-size="14.5" fill="#39FF14" font-weight="700">2023</text>
+<circle cx="108" cy="190" r="5.5" fill="#05070a" stroke="#39FF14" stroke-width="2.4"/>
+<text x="128" y="195" font-size="13.6" fill="#e9f5e9">AllHome Receiving Encoder</text>
+<text x="24" y="235" font-size="14.5" fill="#39FF14" font-weight="700">2025</text>
+<circle cx="108" cy="230" r="5.5" fill="#05070a" stroke="#39FF14" stroke-width="2.4"/>
+<text x="128" y="235" font-size="13.6" fill="#e9f5e9">Network &amp; Cybersecurity Specialization</text>
+<text x="24" y="275" font-size="14.5" fill="#39FF14" font-weight="700">2026+</text>
+<circle cx="108" cy="270" r="5.5" fill="#05070a" stroke="#39FF14" stroke-width="2.4"/>
+<text x="128" y="275" font-size="13.6" fill="#e9f5e9">Building projects, labs, and real-world</text>
+<text x="128" y="293" font-size="13.6" fill="#e9f5e9">experience</text>
+</svg>

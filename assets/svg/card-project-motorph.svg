@@ -1,0 +1,9 @@
+<svg width="270" height="168" viewBox="0 0 270 168" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="268" height="166" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<circle cx="21.9" cy="46.8" r="7.04" fill="none" stroke="#39FF14" stroke-width="2"/><circle cx="46.1" cy="46.8" r="7.04" fill="none" stroke="#39FF14" stroke-width="2"/><path d="M 21.9,46.8 l 6.6,-11.0 h 8.8 m -3.3,-3.3 l 8.8,14.3 m -12.100000000000001,0 h 14.3 l 6.6,8.8" fill="none" stroke="#39FF14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="26" font-size="14.5" font-weight="700" fill="#39FF14">MotorPH Payroll System</text>
+<text x="20" y="76" font-size="12.5" fill="#7d8b7d">Django + MySQL payroll</text>
+<text x="20" y="94" font-size="12.5" fill="#7d8b7d">management for MotorPH.</text>
+</svg>

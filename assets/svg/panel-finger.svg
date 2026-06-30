@@ -1,0 +1,10 @@
+<svg width="560" height="165" viewBox="0 0 560 165" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="558" height="163" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<text x="20" y="24" font-size="14"><tspan fill="#7d8b7d" font-weight="400">Login   : </tspan><tspan fill="#e9f5e9" font-weight="400">joembolinas</tspan></text>
+<text x="20" y="49" font-size="14"><tspan fill="#7d8b7d" font-weight="400">Role    : </tspan><tspan fill="#e9f5e9" font-weight="400">IT Student | Future Cybersecurity Analyst</tspan></text>
+<text x="20" y="74" font-size="14"><tspan fill="#7d8b7d" font-weight="400">Shell   : </tspan><tspan fill="#e9f5e9" font-weight="400">/bin/bash</tspan></text>
+<text x="20" y="99" font-size="14"><tspan fill="#7d8b7d" font-weight="400">Focus   : </tspan><tspan fill="#e9f5e9" font-weight="400">Networking, Security, Automation, Data</tspan></text>
+<text x="20" y="124" font-size="14"><tspan fill="#7d8b7d" font-weight="400">Location: </tspan><tspan fill="#e9f5e9" font-weight="400">Philippines 🇵🇭</tspan></text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="420" height="142" viewBox="0 0 420 142" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="418" height="140" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<text x="20" y="32" font-size="13.5" fill="#39FF14" font-weight="700">$ systems &amp; enterprise/</text>
+<line x1="20" y1="42" x2="400" y2="42" stroke="#1c3a14" stroke-width="1"/>
+<text x="67.5" y="69.44" font-size="15.3" font-weight="800" fill="#1FA0DB" text-anchor="middle">SAP</text>
+<text x="67.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">SAP</text>
+<rect x="151.79" y="60.6" width="6.12" height="15.3" fill="#7C4DFF" fill-opacity="0.50" rx="2"/><rect x="159.44" y="55.5" width="6.12" height="15.3" fill="#7C4DFF" fill-opacity="0.70" rx="2"/><rect x="167.09" y="60.6" width="6.12" height="15.3" fill="#7C4DFF" fill-opacity="0.90" rx="2"/>
+<text x="162.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">MS Dynamics</text>
+<text x="162.5" y="106" font-size="11.5" fill="#e9f5e9" text-anchor="middle">NAV</text>
+<rect x="247.3" y="52.1" width="20.4" height="23.799999999999997" rx="3" fill="none" stroke="#1D6F42" stroke-width="2"/><line x1="249.85" y1="55.5" x2="265.15" y2="72.5" stroke="#1D6F42" stroke-width="1.8"/><line x1="265.15" y1="55.5" x2="249.85" y2="72.5" stroke="#1D6F42" stroke-width="1.8"/>
+<text x="257.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">Excel</text>
+<rect x="343.15" y="52.1" width="18.700000000000003" height="23.799999999999997" rx="3" fill="none" stroke="#0F9D58" stroke-width="2"/><line x1="346.55" y1="58.9" x2="358.45" y2="58.9" stroke="#0F9D58" stroke-width="1.5"/><line x1="346.55" y1="64" x2="358.45" y2="64" stroke="#0F9D58" stroke-width="1.5"/><line x1="346.55" y1="69.1" x2="358.45" y2="69.1" stroke="#0F9D58" stroke-width="1.5"/><line x1="352.5" y1="57.2" x2="352.5" y2="70.8" stroke="#0F9D58" stroke-width="1.5"/>
+<text x="352.5" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">Google Sheets</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="420" height="142" viewBox="0 0 420 142" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;}</style>
+<rect x="1" y="1" width="418" height="140" rx="10" fill="#05070a" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+<text x="20" y="32" font-size="13.5" fill="#39FF14" font-weight="700">$ development/</text>
+<line x1="20" y1="42" x2="400" y2="42" stroke="#1c3a14" stroke-width="1"/>
+<path d="M 74.83333333333334,61.45 h10.2 v-6.800000000000001 a4.25,4.25 0 0 0 -4.25,-4.25 h-1.7000000000000002 a4.25,4.25 0 0 0 -4.25,4.25 z" fill="#FFD43B"/><path d="M 91.83333333333334,66.55 h-10.2 v6.800000000000001 a4.25,4.25 0 0 0 4.25,4.25 h1.7000000000000002 a4.25,4.25 0 0 0 4.25,-4.25 z" fill="#FFD43B" fill-opacity="0.65"/>
+<text x="83.33333333333334" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">Python</text>
+<path d="M 203.20000000000002,72.5 q 15.3,4.25 13.600000000000001,-2.55" fill="none" stroke="#E76F00" stroke-width="2" stroke-linecap="round"/><path d="M 207.45000000000002,53.8 q 8.5,8.5 -0.8500000000000001,16.15" fill="none" stroke="#E76F00" stroke-width="2" stroke-linecap="round"/>
+<text x="210.00000000000003" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">Java</text>
+<text x="327.31666666666666" y="69.95" font-size="18.700000000000003" font-weight="800" fill="#0C4B33">D</text>
+<text x="336.6666666666667" y="92" font-size="11.5" fill="#e9f5e9" text-anchor="middle">Django</text>
+</svg>
